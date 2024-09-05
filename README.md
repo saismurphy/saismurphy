@@ -1,4 +1,4 @@
-## Hello! I'm CDT Murphy, Messiah! 💕
+## Hello! I'm Messiah "Siah" Murphy! 💕
 # 👩🏽‍💻 about me:
 Computer Science student and ROTC cadet at the University of North Georgia, Dahlonega! <br/><br>  Currently surving in the Georgia Army National Guard as a Combat Engineer (12B) <br/><br> Data Engineer, Software Engineer, or Computer Hardware Engineer are all roles I aspire to have <br/>
 
