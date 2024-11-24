@@ -1,4 +1,4 @@
-#  👩🏽‍💻 about Me:
+#  👩🏽‍💻 about moi:
 Hi I'm Messiah, but you can call me Siah! I am an aspiring computational engineer who studies Computer Science at the University of North Georgia! I also happen to be a proud US Army National guard soldier also obtaining a commission. Here, you see all of my program projects and software that I work on . Feel free to provide me with tips and tricks! Much is appreciated here. 
 
 
