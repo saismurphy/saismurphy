@@ -16,4 +16,3 @@ Computer Science student and ROTC cadet at the University of North Georgia, Dahl
 ### ✍️ a quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
