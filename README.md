@@ -6,7 +6,7 @@ Hi I'm Messiah, but you can call me Siah! I am an aspiring computational enginee
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)][(https://www.linkedin.com/in/messiah-murphy-39965b25b/)]
 
 # 💻 my tech stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) !
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 # 📊 github stats:
 ![](https://github-readme-stats.vercel.app/api?username=saismurphy&theme=jolly&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saismurphy&theme=jolly&hide_border=true)<br/>
